@@ -1,11 +1,11 @@
-About r-slippymath
-==================
+About r-slippymath-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-slippymath-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.github.com/milesmcbain/slippymath
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-slippymath-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides functions for performing common tasks when working with slippy map tile service APIs e.g. Google maps, Open Street Map, Mapbox, Stamen, among others. Functionality includes converting from latitude and longitude to tile numbers, determining tile bounding boxes, and compositing tiles to a georeferenced raster image.
 
